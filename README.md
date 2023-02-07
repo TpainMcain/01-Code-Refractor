@@ -26,20 +26,20 @@ THEN I find a concise, descriptive title
 # Links
 https://tpainmcain.github.io/Module-01-Challenge/#search-engine-optimization
 
-#Getting Started
+# Getting Started
 N/A
 
-#Dependencies
+# Dependencies
 N/A
 
-#Installing
+# Installing
 N/A
 
-#Version History
+# Version History
 N/A
 
-#License
+# License
 N/A
 
-#Acknowledgments
+# Acknowledgments
 N/A
