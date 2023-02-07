@@ -24,7 +24,7 @@ WHEN I view the title element,
 THEN I find a concise, descriptive title.
 
 # Links
-https://tpainmcain.github.io/Module-01-Challenge/#search-engine-optimization
+https://tpainmcain.github.io/Module-01-Challenge/
 
 # Getting Started
 N/A
